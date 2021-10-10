@@ -12,5 +12,5 @@ https://expenses-controller.surge.sh
 
 #### Funcionalidades:
 - adicionar receitas ou despesas;
-- visualizar todos os itens adicionados por mẽs;
+- visualizar todos os itens adicionados por mês;
 - visualizar o saldo.
